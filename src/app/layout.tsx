@@ -36,6 +36,9 @@ export const metadata: Metadata = {
     "Portfolio",
   ],
   authors: [{ name: "Mohamed" }],
+  icons: {
+    icon: "/favicon.jpg",
+  },
   openGraph: {
     title: "Mohamed — Full-Stack Software Engineer",
     description:
